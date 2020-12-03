@@ -145,4 +145,6 @@ NETWORK Config profile1 successfully deleted
     NETWORK Config profile11 not found
 
 
+For more details on Network configuration settings [here](./../../General/networkConfig.md)
+
 Return to [RPS Methods](../indexRPS.md)
